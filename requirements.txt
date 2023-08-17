@@ -1,0 +1,4 @@
+numpy==1.20.1
+pandas==1.2.4
+psycopg2==2.9.3
+Requests==2.31.0
